@@ -1,0 +1,2 @@
+#!/bin/bash
+for f in ~/.mozilla/firefox/*/*.sqlite; do echo `bkc-ts` Optimizing $f; sqlite3 $f 'VACUUM;'; done

@@ -1,0 +1,4 @@
+#!/bin/bash
+# Recache icons and fonts
+for d in /usr/share/icons/*; do gtk-update-icon-cache -f $d; done
+sudo fc-cache -fv

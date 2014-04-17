@@ -1,0 +1,3 @@
+#!/bin/bash
+for d in ~/.icons/*; do gtk-update-icon-cache -f $d; done
+fc-cache ~/.fonts

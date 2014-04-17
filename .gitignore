@@ -16,3 +16,7 @@ profile/.fontconfig
 profile/.cache
 profile/.gnome2/keyrings
 profile/.config/bkc-*.log
+profile/.dbus
+profile/.config/variety/.last_change_time
+profile/.config/variety/history.txt
+profile/prepare-for-commit.sh
