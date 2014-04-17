@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=0.9.4
+Type=Application
+Name=Autolock
+Comment=
+Exec=/bin/sh -c "/usr/bin/xautolock -time 30 -locker 'gnome-screensaver-command --lock' & /usr/bin/gnome-screensaver &"
+StartupNotify=false
+Terminal=false
+Hidden=true
+

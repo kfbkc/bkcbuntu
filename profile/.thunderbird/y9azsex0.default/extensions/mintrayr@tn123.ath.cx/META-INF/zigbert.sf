@@ -1,0 +1,84 @@
+Signature-Version: 1.0
+Created-By: xpisign.py (version: 2.0.1; https://github.com/nmaier/xpisign.py); M2Crypto 0.21.1
+SHA1-Digest: LF8H4OYlTdBQmmiuTwpUtR7vRiU=
+
+Name: install.rdf
+SHA1-Digest: W1o6N9JoJcrvvymXMo0GTpGklGo=
+
+Name: chrome.manifest
+SHA1-Digest: QOvOzT+PiP5sAujj7tDyOAdmr8A=
+
+Name: icon.png
+SHA1-Digest: 02VzXfJP4ZBGxEw37dtB0+41w+I=
+
+Name: icon64.png
+SHA1-Digest: z87i1krMu3y1t05Cv3UKf9lf7NI=
+
+Name: chrome.jar
+SHA1-Digest: 5oBXfhXw0I6P4QZMYH2HcFl1DbQ=
+
+Name: chrome/icons/default/MinTrayR.ico
+SHA1-Digest: yWT484juqzZEuNSUZ42A/GjIPVE=
+
+Name: defaults/preferences/mintrayr.js
+SHA1-Digest: fC3FfabDCMA4VJvBB6Fr/pTfV1w=
+
+Name: lib/SOURCES
+SHA1-Digest: qiPcUPoO9bfhIT2EB8VMcPh5Kz8=
+
+Name: lib/tray_i686-gcc3.so
+SHA1-Digest: wLSRR5Wu8q516EyBt3piV+BGols=
+
+Name: lib/tray_x86-msvc.dll
+SHA1-Digest: NNT/gcr+VAPM7jH4wjyw1Xw3FEA=
+
+Name: lib/tray_x86_64-gcc3.so
+SHA1-Digest: uO0XObBCWT2bfdNnYC6/O43YDYE=
+
+Name: lib/tray_x86_64-msvc.dll
+SHA1-Digest: 9yxXZMFKRmiKVpAyrVh7QYl1y2k=
+
+Name: lib_unix/tray/export-versionscript
+SHA1-Digest: VkhDtjuRr3bF8v77elej7GSAzMo=
+
+Name: lib_unix/tray/MakeFile
+SHA1-Digest: x7apa9Ah/96kJ0rmuvP17lLcNd8=
+
+Name: lib_unix/tray/tray.c
+SHA1-Digest: Ys10iV5zUSMtMpC4J2MLjaQpYgU=
+
+Name: lib_unix/tray/tray.h
+SHA1-Digest: NS2pivKw294C+L2y9D0JKDgi9Os=
+
+Name: lib_win/tray/dllmain.c
+SHA1-Digest: 8PR6OUb41O50HEJdcA0gAoAHlOA=
+
+Name: lib_win/tray/exports.def
+SHA1-Digest: 1uY4pH7cQcrgoeLUFWL4Yg+sxTI=
+
+Name: lib_win/tray/tray.cpp
+SHA1-Digest: DwnbWgAWJ+c3EBx8mjxM0A+3joQ=
+
+Name: lib_win/tray/tray.h
+SHA1-Digest: ZErz62KJsNwmgvYaoFPC5E/4PFw=
+
+Name: lib_win/tray/tray.rc
+SHA1-Digest: k+BhzmC5BOkKpUEp1b659IB0IZk=
+
+Name: lib_win/tray/tray.sln
+SHA1-Digest: 2uprDL5uuNnmxO+srfLxUaCRqvA=
+
+Name: lib_win/tray/tray.vcproj
+SHA1-Digest: 3xFSSvwYFnm1/FKE3YLdNrpqaog=
+
+Name: modules/mintrayr.jsm
+SHA1-Digest: jL8hYULfATcn4nV7u2zq8dlN0Cc=
+
+Name: modules/preferences.jsm
+SHA1-Digest: tuMdUdX+4IW+xR8gEe/FqIMh55I=
+
+Name: modules/trayservice.jsm
+SHA1-Digest: PMDe0ycw4hIqmyHvJJcH7u3GQyY=
+
+Name: LICENSE
+SHA1-Digest: ncRG1dyukXWzIkmuIVZaX6ika3Q=
